@@ -1,0 +1,9 @@
+[package]
+name = "rs04-untis"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.39"
+serde_json = "1.0.138"
+untis = { git = "https://github.com/luleyleo/untis-rs", version = "0.3.0" }
