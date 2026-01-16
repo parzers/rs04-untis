@@ -1,0 +1,1 @@
+Copy login.json.template to login.json and input your Untis credentials!
